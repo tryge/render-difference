@@ -2,3 +2,4 @@ This repository exposes different rendering when run with `elm-live` in contrast
 
 Run `elm-live src/Test.elm` and open `http://localhost:8000/` and then open the generated `index.html` directly to view the differences.
 
+*Note* For reference: this issue was fixed with `elm-live` 4.0.1
